@@ -1,69 +1,114 @@
 # Hi 👋, I'm Riya Devkota
 
-### 🎓 BCA Student | 🐍 Python & Flask Developer | 🌐 Aspiring Full-Stack Developer
+### 🎓 BCA Student | 🐍 Python & Flask Developer | 🌱 Passionate About Web Development
 
 ---
 
-## 🌸 A Little About Me
+## 🌸 About Me
 
 - 🎓 Currently pursuing a Bachelor of Computer Applications (BCA).
-- 💡 Interested in developing practical and user-friendly web applications.
-- 🐍 Working with Python and Flask to strengthen my backend development skills.
-- 🗄️ Learning database design and management using MySQL and Microsoft SQL Server.
-- 🌱 Continuously exploring new technologies and improving my coding practices.
-- 🎯 My goal is to build applications that solve real-world problems.
+- 💻 I enjoy building practical web applications using Python and Flask.
+- 🌱 Constantly learning new technologies to improve my development skills.
+- 🗄️ Interested in database management and backend development.
+- 🚀 I believe in learning by building real-world projects.
+- 🎯 My goal is to become a skilled Full-Stack Developer.
 
 ---
 
-## 💼 Technical Skills
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,flask,mysql,git,github,vscode,figma" />
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css" />
 </p>
-### Programming Languages
+
 - Python
 - Java
 - C
-
-### Web Technologies
 - HTML5
 - CSS3
 
-### Backend
+---
+
+## 🌐 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+- HTML5
+- CSS3
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask" />
+</p>
+
+- Python
 - Flask
 - SQLAlchemy
 
-### Databases
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
 - MySQL
 - Microsoft SQL Server
 
-### Tools
+---
+
+## 🧰 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
 - Git
 - GitHub
 - Visual Studio Code
 - Figma
 - XAMPP
 
+---
 
-## 📖 Currently Exploring
+# 🚀 Featured Projects
 
-- Flask Development
-- Database Management
-- Git & GitHub Workflow
-- Responsive Web Design
-- Software Development Best Practices
+### 🎉 Event Management System
+A Flask-based web application that manages students, events, and event registrations using MySQL.
+
 
 ---
 
-## 📬 Find Me Here
+# 📚 Currently Learning
+
+- Flask Development
+- SQLAlchemy
+- Database Design
+- Git & GitHub
+- Responsive Web Design
+
+---
+
+# 📫 Connect With Me
 
 - **GitHub:** https://github.com/Riya629
 
 ---
 
-## 🌟 Motto
+# 💭 Favorite Quote
 
-> "Every line of code is an opportunity to learn something new."
+> ## 💭 Motto
+
+> **"Turning ideas into code, and code into meaningful solutions."**
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ **Thank you for visiting my profile!**
