@@ -16,7 +16,9 @@
 ---
 
 ## 💼 Technical Skills
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,flask,mysql,git,github,vscode,figma" />
+</p>
 ### Programming Languages
 - Python
 - Java
