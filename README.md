@@ -103,7 +103,6 @@ A Flask-based web application that manages students, events, and event registrat
 
 ---
 
-# 💭 Favorite Quote
 
 > ## 💭 Motto
 
