@@ -1,9 +1,67 @@
-<h1>Hi 👋, I'm Riya Devkota</h1>
-<p>Passionate BCA Student Exploring Python, Flask, MySQL & Web Development</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a></p>
+# Hi 👋, I'm Riya Devkota
+
+### 🎓 BCA Student | 🐍 Python & Flask Developer | 🌐 Aspiring Full-Stack Developer
+
+---
+
+## 🌸 A Little About Me
+
+- 🎓 Currently pursuing a Bachelor of Computer Applications (BCA).
+- 💡 Interested in developing practical and user-friendly web applications.
+- 🐍 Working with Python and Flask to strengthen my backend development skills.
+- 🗄️ Learning database design and management using MySQL and Microsoft SQL Server.
+- 🌱 Continuously exploring new technologies and improving my coding practices.
+- 🎯 My goal is to build applications that solve real-world problems.
+
+---
+
+## 💼 Technical Skills
+
+### Programming Languages
+- Python
+- Java
+- C
+
+### Web Technologies
+- HTML5
+- CSS3
+
+### Backend
+- Flask
+- SQLAlchemy
+
+### Databases
+- MySQL
+- Microsoft SQL Server
+
+### Tools
+- Git
+- GitHub
+- Visual Studio Code
+- Figma
+- XAMPP
+
+
+## 📖 Currently Exploring
+
+- Flask Development
+- Database Management
+- Git & GitHub Workflow
+- Responsive Web Design
+- Software Development Best Practices
+
+---
+
+## 📬 Find Me Here
+
+- **GitHub:** https://github.com/Riya629
+
+---
+
+## 🌟 Motto
+
+> "Every line of code is an opportunity to learn something new."
+
+---
+
+⭐ Thanks for visiting my profile!
