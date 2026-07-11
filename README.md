@@ -6,13 +6,12 @@
 
 ## 🌸 About Me
 
- 🎓 Currently pursuing a Bachelor of Computer Applications (BCA).
-💻 I enjoy building practical web applications using Python and Flask.
-🌱 Constantly learning new technologies to improve my development skills.
-🗄️ Interested in database management and backend development.
-🚀 I believe in learning by building real-world projects.
-🎯 My goal is to become a skilled Full-Stack Developer.
-
+- 🎓 Currently pursuing a Bachelor of Computer Applications (BCA).
+- 💻 I enjoy building practical web applications using Python and Flask.
+- 🌱 Constantly learning new technologies to improve my development skills.
+- 🗄️ Interested in database management and backend development.
+- 🚀 I believe in learning by building real-world projects.
+- 🎯 My goal is to become a skilled Full-Stack Developer.
 ---
 
 # 🛠️ Tech Stack
